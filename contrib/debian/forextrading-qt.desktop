@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Forex Trading
+Comment=Forex Trading P2P Cryptocurrency
+Comment[fr]=Forex Trading, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Forex Trading, eşten eşe kriptografik sanal para birimi
+Exec=forextrading-qt %u
+Terminal=false
+Type=Application
+Icon=forextrading128
+MimeType=x-scheme-handler/forextrading;
+Categories=Office;Finance;

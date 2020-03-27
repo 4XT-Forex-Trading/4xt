@@ -1,0 +1,36 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/forextrading_bg.qm</file>
+        <file alias="ca">locale/forextrading_ca.qm</file>
+        <file alias="cs">locale/forextrading_cs.qm</file>
+        <file alias="da">locale/forextrading_da.qm</file>
+        <file alias="de">locale/forextrading_de.qm</file>
+        <file alias="en">locale/forextrading_en.qm</file>
+        <file alias="en_US">locale/forextrading_en_US.qm</file>
+        <file alias="eo">locale/forextrading_eo.qm</file>
+        <file alias="es">locale/forextrading_es.qm</file>
+        <file alias="es_ES">locale/forextrading_es_ES.qm</file>
+        <file alias="fi">locale/forextrading_fi.qm</file>
+        <file alias="fr_FR">locale/forextrading_fr_FR.qm</file>
+        <file alias="hi_IN">locale/forextrading_hi_IN.qm</file>
+        <file alias="hr">locale/forextrading_hr.qm</file>
+        <file alias="hr_HR">locale/forextrading_hr_HR.qm</file>
+        <file alias="it">locale/forextrading_it.qm</file>
+        <file alias="ja">locale/forextrading_ja.qm</file>
+        <file alias="ko_KR">locale/forextrading_ko_KR.qm</file>
+        <file alias="lt_LT">locale/forextrading_lt_LT.qm</file>
+        <file alias="nl">locale/forextrading_nl.qm</file>
+        <file alias="pl">locale/forextrading_pl.qm</file>
+        <file alias="pt">locale/forextrading_pt.qm</file>
+        <file alias="pt_BR">locale/forextrading_pt_BR.qm</file>
+        <file alias="ro_RO">locale/forextrading_ro_RO.qm</file>
+        <file alias="ru">locale/forextrading_ru.qm</file>
+        <file alias="sk">locale/forextrading_sk.qm</file>
+        <file alias="sv">locale/forextrading_sv.qm</file>
+        <file alias="tr">locale/forextrading_tr.qm</file>
+        <file alias="uk">locale/forextrading_uk.qm</file>
+        <file alias="vi">locale/forextrading_vi.qm</file>
+        <file alias="zh_CN">locale/forextrading_zh_CN.qm</file>
+        <file alias="zh_TW">locale/forextrading_zh_TW.qm</file>
+    </qresource>
+</RCC>
